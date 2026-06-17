@@ -40,21 +40,18 @@ turnover and provide data-driven retention recommendations to HR leadership.
 ## 📁 Repository Structure
 
 ```
-HR-Attrition-Analytics/
+Attrition-HR-Analytics/
 │
 ├── data/
-│   └── hr_attrition_cleaned.xlsx       # Cleaned dataset with Data Dictionary
+│   └── HR-Employee-Attrition.xlsx        # Cleaned dataset
 │
 ├── dashboard/
-│   ├── hr_attrition_dashboard.pbit     # Power BI Template file
-│   ├── hr_attrition_dashboard.pdf      # Exported dashboard (PDF)
+│   ├── Employee_Attrition.pbit           # Power BI Template file
+│   ├── Employee_Attrition.pdf            # Exported dashboard (PDF)
 │   └── screenshots/
-│       ├── overview_page.png           # Dashboard Page 1
-│       └── deepdive_page.png           # Dashboard Page 2
+│       └── overview_page.png             # Dashboard Preview
 │
-├── report/
-│   └── attrition_insights_report.pdf   # Final HR insights report
-│
+├── LICENSE
 └── README.md
 ```
 
@@ -62,11 +59,8 @@ HR-Attrition-Analytics/
 
 ## 📊 Dashboard Preview
 
-### Page 1 — Attrition Overview
+### Attrition Overview
 ![Overview Dashboard](dashboard/screenshots/overview_page.png)
-
-### Page 2 — Risk Factor Deep Dive
-![Deep Dive Dashboard](dashboard/screenshots/deepdive_page.png)
 
 ---
 
@@ -101,13 +95,13 @@ HR-Attrition-Analytics/
 
 ## 👤 About Me
 
-**Gogulnaath**
+**Gogulnaath**  
 MBA — HR & Business Analytics | SRM Institute of Science and Technology, Chennai
 
 Aspiring Data Analyst with domain expertise in People Analytics and HR metrics.
 Passionate about using data to solve real-world HR challenges.
 
-🔗 [LinkedIn Profile https://www.linkedin.com/in/gogulnaath-muthamizhventhanar/
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/gogulnaath-muthamizhventhanar/)
 
 ---
 
@@ -117,5 +111,3 @@ Feel free to connect with me on LinkedIn or raise an issue in this repository
 if you have suggestions or feedback on this project!
 
 ---
-
-*⭐ If you found this project useful, consider giving it a star!*
